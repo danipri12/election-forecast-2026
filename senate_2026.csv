@@ -1,0 +1,36 @@
+state,pres_margin_r,seat_party,incumbent_running,special,poll_margin_d,betting_dem_probability
+Alabama,30,R,0,0,-21,0.015
+Alaska,13,R,1,0,1.2,0.72
+Arkansas,31,R,1,0,,0.043
+Colorado,-11,D,1,0,,0.99
+Delaware,-15,D,1,0,,0.992
+Florida,13,R,1,1,-6.3,0.12
+Georgia,2,D,1,0,8.2,0.97
+Idaho,36,R,1,0,,0.047
+Illinois,-11,D,0,0,,0.978
+Iowa,13,R,0,0,-0.5,0.44
+Kansas,16,R,1,0,2.3,0.52
+Kentucky,31,R,0,0,,0.033
+Louisiana,22,R,0,0,,0.12
+Maine,-7,R,1,0,2.1,0.68
+Massachusetts,-25,D,1,0,28,0.01
+Michigan,1,D,0,0,3.9,0.72
+Minnesota,-4,D,0,0,5.8,0.914
+Mississippi,23,R,1,0,,0.11
+Montana,20,R,0,0,-12,0.11
+Nebraska,20,R,1,0,,0.30
+New Hampshire,-3,D,0,0,6.7,0.926
+New Jersey,-6,D,1,0,,0.982
+New Mexico,-6,D,1,0,16.5,0.99
+North Carolina,3,R,0,0,11,0.97
+Ohio,11,R,1,1,2.4,0.71
+Oklahoma,34,R,0,0,,0.02
+Oregon,-14,D,1,0,,0.992
+Rhode Island,-14,D,1,0,,0.995
+South Carolina,18,R,1,0,-2.7,0.27
+South Dakota,29,R,1,0,-15.6,0.053
+Tennessee,30,R,1,0,,0.026
+Texas,14,R,0,0,1.7,0.69
+Virginia,-4,D,1,0,,0.99
+West Virginia,42,R,1,0,,0.013
+Wyoming,46,R,0,0,,0.013
